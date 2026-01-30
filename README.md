@@ -1,2 +1,2 @@
-Ariser The Cat
-rom hack by James Tall (2025)
+# Ariser-The-Cat
+Sonic 1 rom hack by James Tall.
