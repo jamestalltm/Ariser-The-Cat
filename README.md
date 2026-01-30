@@ -1,2 +1,2 @@
-# Ariser-The-Cat
-s1 rom hack by me
+Ariser The Cat
+rom hack by James Tall (2025)
